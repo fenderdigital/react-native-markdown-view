@@ -13,14 +13,6 @@
     "name": "Benjamin Dobell",
     "email": "contact@glassechidna.com.au"
   },
-  "homepage": "https://github.com/Benjamin-Dobell/react-native-markdown-view",
-  "bugs": {
-    "url": "https://github.com/Benjamin-Dobell/react-native-markdown-view/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/Benjamin-Dobell/react-native-markdown-view.git"
-  },
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.5.10",
